@@ -21,8 +21,8 @@ This is a Laravel project for managing users. This README will guide you to set 
 
 # Install Dependencies
 
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/jobelGolde12/user_profile_api.git
+cd user_profile_api
 
 Install Dependencies
 composer install
